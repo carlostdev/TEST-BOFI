@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Barbie Developer</Name>
+    <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+    <AgeRestriction>12</AgeRestriction>
+    <Company>Mattel</Company>
+    <Price>25.99</Price>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>xyc</Name>
+    <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+    <AgeRestriction>4</AgeRestriction>
+    <Company>Marvel</Company>
+    <Price>75.50</Price>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>abc</Name>
+    <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+    <AgeRestriction>18</AgeRestriction>
+    <Company>Nintendo</Company>
+    <Price>99.99</Price>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>NES Classic Edition</Name>
+    <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+    <AgeRestriction>4</AgeRestriction>
+    <Company>Nintendo</Company>
+    <Price>299.99</Price>
+  </Product>
+</Products>
